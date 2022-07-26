@@ -16,6 +16,10 @@
 
 - 프로그램끼리 통신할 수 있도록 하는 중재자이다.
 
+> **RESTful API**
+
+- REST를 기반으로 서비스 API를 구현하는 것이다.
+
 > **REST API의 특징**
 
 <span style="color: green">
